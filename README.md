@@ -1,4 +1,4 @@
-# KAXMEDIA API
+# GAMBLING_DOT_COM INVITE SENDER
 
 ## Installation
 
